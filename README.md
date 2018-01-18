@@ -1,6 +1,7 @@
 # lab1_jnlimaye
 tips to working with git and github
-#*Joshua Limaye*
+
+*Joshua Limaye*
 
 While I study Economics, I tend towards Data Analytics/Science. My minor in Statistics and Data Science paired with my B.A., I hope will, position me well for employment in industry.
 
