@@ -10,3 +10,5 @@ In the last three months, I have spent most of my time betwween two research pro
 To stay organized, I begin each week by writing all of my to-dos and assigining them to a day I'd like to do them.
 
 Hi. I'm Allie.
+
+Star Wars like visual reads changes to repository
